@@ -1,0 +1,35 @@
+body {
+  background-color: #357C3C;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #FFD93D;
+  border-width: 5px;
+  width: 7%
+}
+
+img {
+  height: 150px;
+}
+
+h1 {
+  color: #FFD93D
+}
+
+h3 {
+  color: #FFD93D
+}
+
+
+
+.Ribbins:hover {
+  height: 152px;
+}
+
+.UCCTable{
+
+border-collapse: separate;
+border-spacing: 30px;
+}
